@@ -7,6 +7,9 @@ def phonebook(name, users, default="undefined"):
     return default
 
 print(phonebook("Иван", users))
+print(phonebook("Катя", users))
+print(phonebook("Лена", users))
+print(phonebook("Игорь", users))
 
 # Дополнительное задание.
 # Выберите наилучший вариант:
