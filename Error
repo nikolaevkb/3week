@@ -1,0 +1,2 @@
+$ django-admin startproject mysite
+CommandError: [WinError 5] ▒▒▒▒▒▒▒▒ ▒ ▒▒▒▒▒▒▒: 'C:\\Program Files (x86)\\Git\\mysite'
